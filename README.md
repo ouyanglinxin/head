@@ -1,2 +1,2 @@
 # head
-then brain is konw
+Then brain is konw !
